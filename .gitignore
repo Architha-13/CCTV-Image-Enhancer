@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+models/*.pth
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
