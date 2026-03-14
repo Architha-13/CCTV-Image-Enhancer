@@ -131,7 +131,7 @@ The trained model is larger than GitHub's 100MB limit and is **not stored in the
 Download the model file:
 
 ```
-net_g_6000.pth from (https://drive.google.com/drive/folders/1FYTDCjdMmA4EsnKx0QoVLsgicgFMo5WO?usp=sharing)
+net_g_6000.pth from https://drive.google.com/drive/folders/1FYTDCjdMmA4EsnKx0QoVLsgicgFMo5WO?usp=sharing
 ```
 
 Place it inside:
